@@ -48,7 +48,7 @@ def banner(console):
     "                                        ",
     "                                        ",
     "                                        "
-]
+"""
 # You can print it line by line like this:
 for line in brand_name:
     print(line)
