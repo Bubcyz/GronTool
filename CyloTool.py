@@ -13,8 +13,8 @@ from pystyle import Colors, Colorate
 
 from cylo import Bubcyz
 
-__CHANNEL_USERNAME__ = "CyloToolChannel"
-__GROUP_USERNAME__   = "CyloToolChat"
+__CHANNEL_USERNAME__ = "Grontool Canal"
+__GROUP_USERNAME__   = "GroneCpm GroupChat"
 
 def signal_handler(sig, frame):
     print("\n Bye Bye...")
