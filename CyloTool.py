@@ -47,7 +47,7 @@ def banner(console):
      ▝▚▄▞▘▐▌ ▐▌▝▚▄▞▘▐▌  ▐▌  █ ▝▚▄▞▘▝▚▄▞▘▐▙▄▄▖                                       
 """
 # You can print it line by line like this:
-for line in brand_name:
+for line in brand_name.splitlines():
     print(line)
     colors = [
         "rgb(255,0,0)", "rgb(255,69,0)", "rgb(255,140,0)", "rgb(255,215,0)", "rgb(173,255,47)", 
